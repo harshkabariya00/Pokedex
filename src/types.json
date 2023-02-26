@@ -1,0 +1,34 @@
+[
+  {
+    "type": "water",
+    "color": "blue"
+  },
+  {
+    "type": "fire",
+    "color": "red"
+  },
+  {
+    "type": "grass",
+    "color": "green"
+  },
+  {
+    "type": "poison",
+    "color": "purple"
+  },
+  {
+    "type": "flying",
+    "color": "blue"
+  },
+  {
+    "type": "normal",
+    "color": "gray"
+  },
+  {
+    "type": "electric",
+    "color": "orange"
+  },
+  {
+    "type": "bug",
+    "color": "green"
+  }
+]
